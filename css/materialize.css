@@ -12,6 +12,13 @@
   color: #4279ca
 }
 
+.ghost {
+    text-shadow: 4px 2px 8px black;
+}
+
+.outcast {
+  font-size: 50px
+}
 
  /*code that was created by someone else*/
 .materialize-red {
